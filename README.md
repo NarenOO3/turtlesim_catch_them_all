@@ -26,6 +26,7 @@ The interaction between these nodes and topics can be visualized using **rqt_gra
 
 <img width="2172" height="1476" alt="rqt_graph" src="https://github.com/user-attachments/assets/f352a5ac-8914-45f2-945a-1129ec0350ed" />
 
+You can get the complete code from the files in this repository.  
 
-This project is a fun way to learn, practice, and strengthen my understanding of ROS2 while building on familiar ROS1 concepts 🚀...
+This project is a fun way to learn, practice, and strengthen my understanding of ROS2 while building on familiar ROS1 concepts🚀...
 
