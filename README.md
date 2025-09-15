@@ -3,7 +3,8 @@
 An Autobot (turtlesim turtle 🤖) will catch all Decepticons (Enemy turtlesim turtles 👾) one by one in order or catch the one nearest to it to save planet earth ...
 | Catch the First Spawned Deception          | Catch the Neartest Spawned Deception               |
 | ---------------------- | ---------------------- |
-| ![arena hola](https://github.com/NarenOO3/turtlesim_catch_them_all/blame/main/turtlesim_catch_them_all_ros2_ws/resources/videos/catch%20the%20fist%20spawn%20turtle.webm) | ![Hola bot and aruco markers](https://github.com/NarenOO3/HolaBot/assets/98276114/bddef082-c0a0-4953-84fb-bef05edb1719) |
+| [catch the nearest turtle.webm](https://github.com/user-attachments/assets/5e46bc47-83d8-4899-bf20-74da54a58031)
+ | ![Hola bot and aruco markers](https://github.com/NarenOO3/HolaBot/assets/98276114/bddef082-c0a0-4953-84fb-bef05edb1719) |
 
 A small project to make my transition from ROS1 to ROS2. Good thing is that concepts remains the same just need to get to use to updated function and classes in ROS2
 
