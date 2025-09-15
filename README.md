@@ -4,7 +4,7 @@
 
 An Autobot (turtlesim turtle 🤖) will catch all Decepticons (Enemy turtlesim turtles 👾) one by one in order or catch the one nearest to it to save planet earth ...
 
-| Catch the First Spawned Deception          |                                                       Catch the Neartest Spawned Deception               |
+| Catch the First Spawned Deception          |      Catch the Neartest Spawned Deception               |
 | ---------------------- | ---------------------- |
 | ![catch the first spawned turtle](https://github.com/user-attachments/assets/2cafad9b-09ce-4dec-af96-381f3cd0fbb0)| ![catch the nearest turtle](https://github.com/user-attachments/assets/0a5040f4-8662-48d0-ac73-e7f8d575e240) |
 
