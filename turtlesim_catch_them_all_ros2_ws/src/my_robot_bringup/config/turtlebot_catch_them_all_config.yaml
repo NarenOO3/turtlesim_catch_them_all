@@ -1,0 +1,8 @@
+/turtle_controller:
+  ros__parameters:
+    catch_closet_turtle_first: True
+
+/turtle_spawner:
+  ros__parameters:
+    turtle_name_prefix: "Decepticon"
+    spawn_frequency: 2.0
