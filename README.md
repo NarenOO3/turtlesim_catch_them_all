@@ -1,10 +1,11 @@
-# tu[catch the nearest turtle.webm](https://github.com/user-attachments/assets/e43a3cff-21a3-4f0a-92af-bdf036d05f70)
-rtlesim_catch_them_all
+# turtlesim_catch_them_all
+
+
 
 An Autobot (turtlesim turtle 🤖) will catch all Decepticons (Enemy turtlesim turtles 👾) one by one in order or catch the one nearest to it to save planet earth ...
 | Catch the First Spawned Deception          | Catch the Neartest Spawned Deception               |
 | ---------------------- | ---------------------- |
-| ![catch the fist spawn turtle](https://github.com/user-attachments/assets/ba56f2b7-d533-4360-92dd-ad57f61fda20)| |
+| ![catch the first spawned turtle](https://github.com/user-attachments/assets/2cafad9b-09ce-4dec-af96-381f3cd0fbb0)| ![catch the nearest turtle](https://github.com/user-attachments/assets/0a5040f4-8662-48d0-ac73-e7f8d575e240) |
 
 
 
@@ -18,6 +19,7 @@ We have three nodes turtlesim node, turtle_controller node, turtle_spawner node.
 
 # rqt graph
 
+<img width="2172" height="1476" alt="rqt_graph" src="https://github.com/user-attachments/assets/f352a5ac-8914-45f2-945a-1129ec0350ed" />
 
 
 
